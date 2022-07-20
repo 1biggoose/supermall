@@ -14,10 +14,13 @@ export default {
 <style>
   .swiper-item {
     width: 100%;
-    flex-shrink: 0;
+    /* flex-shrink: 0; */
+    height: 100%;
   }
 
   .swiper-item img {
     widows: 100%;
+    height: 203px;
+    /* padding: -10px; */
   }
 </style>
